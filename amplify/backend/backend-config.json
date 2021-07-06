@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "idealoctopalmtreebbc5d22e": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
